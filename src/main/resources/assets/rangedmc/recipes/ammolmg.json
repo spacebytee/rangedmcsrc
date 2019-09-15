@@ -1,0 +1,19 @@
+{
+  "group": "rangedmc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "minecraft:shield"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "result": {
+    "item": "rangedmc:lmgammo",
+    "count": 15
+  }
+}

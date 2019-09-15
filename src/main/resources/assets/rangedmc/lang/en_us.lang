@@ -1,0 +1,10 @@
+item.sniper.name=Sniper Rifle
+item.shotammo.name=ShotAmmo
+item.lmg.name=LMG
+itemGroup.tabrangedmcother=RangedMC Other
+item.pistolammo.name=Pistol Ammo
+item.m4.name=Pistol
+item.lmgammo.name=LMG Ammo
+itemGroup.tabRangedMCGuns=RangedMC Guns
+itemGroup.tabRangedMCAmmo=RangedMC Ammo
+item.sniperammo.name=Sniper Ammo

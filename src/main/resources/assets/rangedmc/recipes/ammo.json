@@ -1,0 +1,20 @@
+{
+  "group": "rangedmc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "rangedmc:pistolammo",
+    "count": 5
+  }
+}

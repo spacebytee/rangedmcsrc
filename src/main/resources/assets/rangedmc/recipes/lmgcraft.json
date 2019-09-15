@@ -1,0 +1,27 @@
+{
+  "group": "rangedmc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_button"
+    },
+    "2": {
+      "item": "rangedmc:lmgammo"
+    },
+    "3": {
+      "item": "minecraft:dispenser"
+    },
+    "4": {
+      "item": "minecraft:lever"
+    }
+  },
+  "result": {
+    "item": "rangedmc:lmg",
+    "count": 1
+  }
+}
